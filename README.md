@@ -5,6 +5,11 @@
 <img width="600" height="568" alt="Untitled297_20260907171436" src="https://github.com/user-attachments/assets/dae5bf3d-ee8c-4c09-be36-2ca3f6e683c7" />
 </p>
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bsisk3b9ipx3m87tsn4edpan&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ee8787&interchange=true&profanity=false&hide_remaster=false&bar_color=89A043&bar_color_cover=false">
+  </a>
+</p>
+<p align="center">
 <img width="300" height="100" alt="download (15)" src="https://github.com/user-attachments/assets/ab2ce48d-2a63-4332-8d16-46322184d60b" />
 </p>
 <p align="right">
