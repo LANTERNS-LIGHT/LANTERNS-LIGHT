@@ -1,5 +1,7 @@
 <img width="1349" height="388" alt="download (14)" src="https://github.com/user-attachments/assets/4f4a30de-e75b-4857-88e1-88d8cd00360c" />
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&duration=3850&pause=1000&color=89A043&center=true&vCenter=true&width=435&lines=In+the+brightest+day;in+the+blackest+night;no+evil+shall+escape+my+sight;let+those+who+worship+evil's+might;beware+my+power;green+lantern's+light!" alt="Typing SVG" /></a></p>
+<p align="center">
 <img width="600" height="568" alt="Untitled297_20260907171436" src="https://github.com/user-attachments/assets/dae5bf3d-ee8c-4c09-be36-2ca3f6e683c7" />
 </p>
 <p align="center">
