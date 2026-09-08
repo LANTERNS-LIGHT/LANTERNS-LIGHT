@@ -36,7 +36,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/faa734c6-dc3b-4b00-a861-917aa8b636fd">
-  <img src="https://github.com/user-attachments/assets/faa734c6-dc3b-4b00-a861-917aa8b636fd" width="600">
+  <img src="https://github.com/user-attachments/assets/faa734c6-dc3b-4b00-a861-917aa8b636fd" width="550">
 </picture>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/045148db-44f1-4ea4-a94e-0821e4c73ecf">
