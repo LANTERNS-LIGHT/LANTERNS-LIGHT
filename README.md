@@ -32,11 +32,12 @@
   <img src="https://github.com/user-attachments/assets/ab2ce48d-2a63-4332-8d16-46322184d60b" width="300">
 </picture>
 </p>
+
 <p align="right">
 
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/faa734c6-dc3b-4b00-a861-917aa8b636fd">
-  <img src="https://github.com/user-attachments/assets/faa734c6-dc3b-4b00-a861-917aa8b636fd" width="550">
+  <img src="https://github.com/user-attachments/assets/faa734c6-dc3b-4b00-a861-917aa8b636fd" width="500">
 </picture>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/045148db-44f1-4ea4-a94e-0821e4c73ecf">
